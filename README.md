@@ -2,7 +2,7 @@
   <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/4a/8a/1b/4a8a1be9-e669-3fa4-05cf-18b8862a35ed/source/256x256bb.jpg" alt="Logo" width="25" height="25">
 </h1>
 <p align="center"> 
- <a target="_blank" href="(https://www.youtube.com/watch?v=rBkdrC8eD1Y)">Video Demo</a>
+ <a target="_blank" href="https://www.youtube.com/watch?v=rBkdrC8eD1Y">Video Demo</a>
 </p>
     
 <!-- TABLE OF CONTENTS -->
