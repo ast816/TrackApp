@@ -107,7 +107,7 @@ streamlit run app.py
 <!-- WEBAPP TUTORIAL-->
 ## Navigating Through The App
 ### Home
-Home Page appears as soon as you launch the web-application. You can check out the project description and User Manual.
+Home Page appears as soon as you launch the web-application. Check out the project description and User Manual here.
 <img src="Face-Recognition-Attendance-Projects/apps/step 1.jpg" alt="Home screen" width="700"/>
 ### Hello New User
 * New users can enter their details and click on the submit button 
